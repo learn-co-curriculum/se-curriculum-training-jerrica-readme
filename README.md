@@ -1,4 +1,4 @@
-# Jerrica's First Readme
+# Jerrica's First README
 
 ## Learning Goals
 
